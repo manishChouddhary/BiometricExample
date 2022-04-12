@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BiometricExample</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="cancel">Cancel</string>
+    <string name="device_credential_not_allowed">Device credential authentication not allowed for this device, please use other ways.</string>
+    <string name="device_credential_not_working">Sorry, unable to use device credentials.</string>
+    <string name="prompt_info_title">Sign in"</string>
+    <string name="prompt_info_subtitle">Confirm your biometric to continue.</string>
+    <string name="no_fingerprint_message">No biometric features available on this device.</string>
+    <string name="no_fingerprint_not_working">Biometric features are currently unavailable.</string>
+    <string name="sorry">Sorry</string>
+    <string name="ok_cta">OK</string>
+    <string name="maximum_attempts">"Maximum number of login atempts by biometric exceeds, please login by userId and password. "</string>
+    <string name="unsuported">BioMetric unsupported</string>
+    <string name="fingerprint_error_user_canceled">User canceled the flow</string>
+    <string name="alert_title">Alert</string>
+</resources>
